@@ -71,13 +71,10 @@ Ubuntu adalah salah satu versi khusus dari kue tersebut. Mereka sudah lengkap de
 <img src = https://github.com/user-attachments/assets/fd463f53-3874-4bef-a32f-1bdfd95a4a9e width=500>
 <img src = https://github.com/user-attachments/assets/da18a896-cd1f-4248-a342-5951e4e2ae96 width=500>
 
-<h3>Analisis</h3>
-<p>Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount  Point ?
-Jawab : Karena tanda "/" adalah tanda root dari partisi, partisi root merupakan partisi  tertinggidi  Linux  atau  mudahnya  partisi  root  hampir  sama  dengan drive  C:  di  Windows  padaopsi  Mount  Point.  Jadi  tanda  tersebut  akan menunjukan langsung pilihan Use As Ext4 dan lain lain, jika saat pembagian partisi tidak ada root ("/") maka sistem Linux tidak bisa berjalan. 
-<br/></p>
+<h2>Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount  Point ?</h2>
+<p>Jawab : Karena tanda "/" adalah tanda root dari partisi, partisi root merupakan partisi  tertinggidi  Linux  atau  mudahnya  partisi  root  hampir  sama  dengan drive  C:  di  Windows  padaopsi  Mount  Point.  Jadi  tanda  tersebut  akan menunjukan langsung pilihan Use As Ext4 dan lain lain, jika saat pembagian partisi tidak ada root ("/") maka sistem Linux tidak bisa berjalan.<br/></p>
 
-<p>2.	Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
-Jawab : 
+<h2>Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !</h2>
 A.	EXT4<br/>
 dirilis secara komplit dan stabil berawal dari kernel 2.628 jadi apabila distro pengguna yang secara default memiliki versi kernel tersebut atau diatasnya otomatis system pengguna sudah support ext4.<br/>
 B.	EXT3<br/>
@@ -90,4 +87,7 @@ E.	FAT32<br/>
 FAT32 mulai di kenal pada sistem Windows 95 SP2, dan merupakan pengembangan lebih dari FAT16 untuk mengatur file harddisk. FAT32 menawarkan kemampuan menampung jumlah cluster yang lebih besar dalam partisi. Selain itu FAT32 juga mengembangkan kemampuan harddisk menjadi lebih baik disbanding FAT16. Namun FAT32 memiliki kelemahan yang tidak dimiliki FAT16, yaitu terbatasnya Operating System yang bisa mengenal FAT32.<br/>
 F.	BTRFS<br/> 
 BTRFS (B-Tree  FileSystem)  adalah  sebuah FileSystem modern berbasis Copy on Write (CoW). FileSystem ini pada awalnya didesain oleh Oracle  sejak  tahun  2007  dan  diciptakan  dengan  tujuan  memberikan implementasi  fitur  lanjutan  dan  memudahkan  administrasi  reparasi  data. Fitur utama yang diunggulkan oleh BTRFS di antaranya adalah Subvolume, snapshot,  software  based RAID,  dan checksum untuk  data  dan  metadata untuk reparasi otomatis.<br/>
-</p>
+
+<h1>Penutup</h1>
+<h2>Kesimpulan</h2>
+<p>Dari praktikum yang telah selesai dilakukan dapat disimpulkan bahwa Ubuntu merupakan salah satu jenis sistem operasi linux   yang sering digunakan karena kemudahan proses installasinya. Selain itu dari praktikum ini kami menjadi lebih mengerti perbedaan windows dan linux, salah satunya dari perbedaan file sistem yang digunakan. Diharapkan di kemudian hari sistem operasi Ubuntu menjadi lebih familiar di kalangan umum.</p>
